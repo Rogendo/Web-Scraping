@@ -76,8 +76,6 @@ cover/
 .env
 .env.*
 
-# Jupyter Notebook
-*.ipynb
 
 # Data files
 *.csv
