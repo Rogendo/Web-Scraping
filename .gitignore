@@ -33,9 +33,6 @@ env/
 env.bak/
 venv.bak/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
 # PyCharm
 .idea/
 
@@ -99,8 +96,6 @@ $RECYCLE.BIN/
 
 # Anaconda
 *.conda
-*.ipynb_checkpoints
-*.ipynb
 *.h5
 *.hdf5
 *.hdf
